@@ -73,7 +73,7 @@ This project analyzes rental pricing and demand patterns using the NYC Airbnb da
 
 ## 📷 Dashboard Preview
 
-![Dashboard](screenshots/dashboard_overview.png)
+![Dashboard](Screenshots/dashboard_overview.png)
 
 ---
 
